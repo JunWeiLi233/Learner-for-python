@@ -7,4 +7,4 @@ I have vibe coding for a month, I find out it is necessary to learn Python as a 
 Learn syntax! Use Python for Leetcode Questions! 
 
 ## Shotout!
-Thanks to -**Bro Code
+Thanks to -**Bro Code**
