@@ -9,4 +9,4 @@ Learn syntax! Use Python for Leetcode Questions!
 ## Shotout!
 Thanks to 
 - **Bro Code** [BroCode youtube channel](https://www.youtube.com/@BroCodez)
-- 
+- **NeuralNine** [NeuralNine youtube channel]((https://www.youtube.com/@NeuralNine))
