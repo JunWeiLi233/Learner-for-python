@@ -8,4 +8,5 @@ Learn syntax! Use Python for Leetcode Questions!
 
 ## Shotout!
 Thanks to 
-- **Bro Code**
+- **Bro Code** [BroCode youtube channel](https://www.youtube.com/@BroCodez)
+- 
