@@ -1,3 +1,3 @@
 .venv/
 brocode/__pycache__
-fastAPI/__pycache__
+fastAPI/__pycache__.env

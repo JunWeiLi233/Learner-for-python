@@ -33,6 +33,7 @@ all_todos =[
     Todo(todo_id=4, todo_name="study", todo_description="study for exam", priority = Priority.MEDIUM),
     Todo(todo_id=5, todo_name="meditate", todo_description="meditate 20 minutes", priority = Priority.LOW),
 ]
+
 # GET: Get information from server
 # POST: Create information for server
 # PUT: Change information for server
