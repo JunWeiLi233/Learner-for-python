@@ -10,3 +10,4 @@ Learn syntax! Use Python for Leetcode Questions!
 Thanks to 
 - **Bro Code** [BroCode youtube channel](https://www.youtube.com/@BroCodez)
 - **NeuralNine** [NeuralNine youtube channel](https://www.youtube.com/@NeuralNine)
+- **Corey Schafer** [Corey youtube channel](https://www.youtube.com/@coreyms)
